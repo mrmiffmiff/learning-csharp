@@ -1,0 +1,7 @@
+C:\Users\Robert Eisenman\Documents\csharp stuff\Type Conversion\Type Conversion\bin\Debug\Type Conversion.exe.config
+C:\Users\Robert Eisenman\Documents\csharp stuff\Type Conversion\Type Conversion\bin\Debug\Type Conversion.exe
+C:\Users\Robert Eisenman\Documents\csharp stuff\Type Conversion\Type Conversion\bin\Debug\Type Conversion.pdb
+C:\Users\Robert Eisenman\Documents\csharp stuff\Type Conversion\Type Conversion\obj\Debug\Type Conversion.csprojAssemblyReference.cache
+C:\Users\Robert Eisenman\Documents\csharp stuff\Type Conversion\Type Conversion\obj\Debug\Type Conversion.csproj.CoreCompileInputs.cache
+C:\Users\Robert Eisenman\Documents\csharp stuff\Type Conversion\Type Conversion\obj\Debug\Type Conversion.exe
+C:\Users\Robert Eisenman\Documents\csharp stuff\Type Conversion\Type Conversion\obj\Debug\Type Conversion.pdb
